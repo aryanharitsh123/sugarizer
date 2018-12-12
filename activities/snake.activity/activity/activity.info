@@ -1,0 +1,6 @@
+[Activity]
+name = snake
+activity_version = 1
+bundle_id = org.sugarlabs.snake
+exec = sugar-activity-web
+icon = activity-icon
